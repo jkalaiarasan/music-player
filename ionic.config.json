@@ -1,0 +1,7 @@
+{
+  "name": "Music Player Vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
